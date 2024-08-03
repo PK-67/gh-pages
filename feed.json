@@ -1,0 +1,122 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Blog Photo",
+    "description": "",
+    "home_page_url": "https://pk-67.github.io/gh-pages",
+    "feed_url": "https://pk-67.github.io/gh-pages/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "D&#x27;Hans Trapp"
+    },
+    "items": [
+        {
+            "id": "https://pk-67.github.io/gh-pages/atelier-du-20-decembre-2023/",
+            "url": "https://pk-67.github.io/gh-pages/atelier-du-20-decembre-2023/",
+            "title": "Atelier du 20 décembre 2023",
+            "summary": "Le 20 décembre prochain, l'atelier de Marie-Bidouille se déplace à Mutzig chez... Marie. Au programme, une spéciale Noël : peindre des cartes à l'aquarelle, en évitant le kitch. Dix places seulement sont disponibles. Inscrivez-vous rapidement.",
+            "content_html": "<p>Le 20 décembre prochain, l'<strong>atelier de Marie-Bidouille </strong>se déplace à Mutzig chez... Marie. Au programme, une <strong>spéciale Noël :</strong> peindre des cartes à l'aquarelle, en évitant le <em>kitch</em>.</p>\n<p>Dix places seulement sont disponibles. <a href=\"https://pk-67.github.io/gh-pages/inscription-au-stage/\">Inscrivez-vous</a> rapidement.</p>\n<p> </p>",
+            "image": "https://pk-67.github.io/gh-pages/media/posts/8/hero.jpg",
+            "author": {
+                "name": "D&#x27;Hans Trapp"
+            },
+            "tags": [
+                   "Ateliers"
+            ],
+            "date_published": "2023-10-14T16:45:41+02:00",
+            "date_modified": "2023-10-14T16:55:12+02:00"
+        },
+        {
+            "id": "https://pk-67.github.io/gh-pages/la-galerie-des-moineaux/",
+            "url": "https://pk-67.github.io/gh-pages/la-galerie-des-moineaux/",
+            "title": "Le vol du moineau",
+            "summary": "Une importante colonie de moineaux a élu domicile près de chez nous. Je ne me lasse pas d'observer et de photographier leurs ébats. Mon principal défi : fixer ces oiseaux en vol.",
+            "content_html": "<p>Une importante colonie de moineaux a élu domicile près de chez nous. Je ne me lasse pas d'observer et de photographier leurs ébats. Mon principal défi : fixer ces oiseaux en vol.</p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://pk-67.github.io/gh-pages/media/posts/7/gallery/20230827-Moineaux01-118_1000.jpg\" data-size=\"1000x536\"><img loading=\"lazy\" src=\"https://pk-67.github.io/gh-pages/media/posts/7/gallery/20230827-Moineaux01-118_1000-thumbnail.jpg\" alt=\"Le premier moineau\" width=\"720\" height=\"386\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://pk-67.github.io/gh-pages/media/posts/7/gallery/20230910-moineaux-273_1000.jpg\" data-size=\"1000x533\"><img loading=\"lazy\" src=\"https://pk-67.github.io/gh-pages/media/posts/7/gallery/20230910-moineaux-273_1000-thumbnail.jpg\" alt=\"Le deuxième moneau\" width=\"720\" height=\"384\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://pk-67.github.io/gh-pages/media/posts/7/gallery/20230912-moineaux_2-162_1000.jpg\" data-size=\"1000x533\"><img loading=\"lazy\" src=\"https://pk-67.github.io/gh-pages/media/posts/7/gallery/20230912-moineaux_2-162_1000-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"384\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://pk-67.github.io/gh-pages/media/posts/7/gallery/20230912-Moineaux_01-13_1000.jpg\" data-size=\"1000x535\"><img loading=\"lazy\" src=\"https://pk-67.github.io/gh-pages/media/posts/7/gallery/20230912-Moineaux_01-13_1000-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"385\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://pk-67.github.io/gh-pages/media/posts/7/gallery/20230809-Moineaux-02-89_1000.jpg\" data-size=\"1000x536\"><img loading=\"lazy\" src=\"https://pk-67.github.io/gh-pages/media/posts/7/gallery/20230809-Moineaux-02-89_1000-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"386\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://pk-67.github.io/gh-pages/media/posts/7/gallery/20230917-moineaux-43-2_1000.jpg\" data-size=\"1000x533\"><img loading=\"lazy\" src=\"https://pk-67.github.io/gh-pages/media/posts/7/gallery/20230917-moineaux-43-2_1000-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"384\"></a></figure>\n</div></div>\n<p> </p>\n<p> </p>",
+            "author": {
+                "name": "D&#x27;Hans Trapp"
+            },
+            "tags": [
+                   "Oiseaux"
+            ],
+            "date_published": "2023-10-14T08:57:48+02:00",
+            "date_modified": "2023-10-14T10:37:02+02:00"
+        },
+        {
+            "id": "https://pk-67.github.io/gh-pages/inscription-au-stage/",
+            "url": "https://pk-67.github.io/gh-pages/inscription-au-stage/",
+            "title": "Inscription au stage",
+            "summary": "Chargement…",
+            "content_html": "<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"640\" height=\"740\" src=\"https://docs.google.com/forms/d/e/1FAIpQLSeZOHAyPYqS4_iDKUS2_RqQ3fcorxfOaCynS-DDkocr8RRG1A/viewform?embedded=true\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\">Chargement…</iframe></div>",
+            "author": {
+                "name": "D&#x27;Hans Trapp"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-10-14T07:11:54+02:00",
+            "date_modified": "2023-10-14T18:24:35+02:00"
+        },
+        {
+            "id": "https://pk-67.github.io/gh-pages/et-aujourdhui-elle-vole/",
+            "url": "https://pk-67.github.io/gh-pages/et-aujourdhui-elle-vole/",
+            "title": "Et aujourd&#x27;hui, elle vole",
+            "summary": "Symbole de la renaissance de l'Alsace, administrativement éradiquée, la cigogne s'élance. Toujours depuis la grange de mon voisin. Et toujours rien à voir dans le ciel... pas de pluie en vue.",
+            "content_html": "<p>Symbole de la renaissance de l'Alsace, administrativement éradiquée, la cigogne s'élance. Toujours depuis la grange de mon voisin.<br>Et toujours rien à voir dans le ciel... pas de pluie en vue.</p>\n<p> </p>",
+            "image": "https://pk-67.github.io/gh-pages/media/posts/5/20230731-Cigogne-168v2_1000.jpg",
+            "author": {
+                "name": "D&#x27;Hans Trapp"
+            },
+            "tags": [
+                   "Oiseaux"
+            ],
+            "date_published": "2023-10-09T16:56:13+02:00",
+            "date_modified": "2023-10-12T16:08:42+02:00"
+        },
+        {
+            "id": "https://pk-67.github.io/gh-pages/pandemonium/",
+            "url": "https://pk-67.github.io/gh-pages/pandemonium/",
+            "title": "Pandemonium",
+            "summary": "L'enfer c'est les autres ? Non, ce sont les pucerons. Ça grouille dans toutes les tailles, toutes les couleurs. Ailés ou pas. Me faisant irrésistiblement penser à un tableau de Jérôme Bosch. J'ai mis la main sur un MPE-65. L'objectif mythique des macroteux est vraiment&hellip;",
+            "content_html": "<p><em>L'enfer c'est les autres ?</em> Non, ce sont les pucerons. Ça grouille dans toutes les tailles, toutes les couleurs. Ailés ou pas. Me faisant irrésistiblement penser à un tableau de Jérôme Bosch.<br>J'ai mis la main sur un MPE-65. L'objectif mythique des macroteux est vraiment aussi difficile à maîtriser que la rumeur le dit... mais je m'accroche ! Là encore, le <em>focus peaking</em> aide.Rapport 2:1 et lumière naturelle pour ce premier essai montrable. Ou à peu près. <figure class=\"smilies\"><img loading=\"lazy\"  title=\"Drool\" src=\"https://reflexphoto.eu/images/smilies/icon_razz.gif\" alt=\":P\" data-is-external-image=\"true\"></figure>\n<p> </p>",
+            "image": "https://pk-67.github.io/gh-pages/media/posts/4/20230527-Mpe-65_2-19_1000.jpg",
+            "author": {
+                "name": "D&#x27;Hans Trapp"
+            },
+            "tags": [
+                   "Insectes"
+            ],
+            "date_published": "2023-10-09T16:53:39+02:00",
+            "date_modified": "2023-10-12T16:10:40+02:00"
+        },
+        {
+            "id": "https://pk-67.github.io/gh-pages/cest-lundi-au-boulot/",
+            "url": "https://pk-67.github.io/gh-pages/cest-lundi-au-boulot/",
+            "title": "C&#x27;est lundi... au boulot",
+            "summary": "Pas de stacking cette fois-ci. J'ai mis la main sur un vieux MP-E 65 et je m'essaye à l'employer à main levée. Pas évident à dompter ce caillou-là. Ce sera un de mes challenges pour les prochaines semaines... Heureusement que les nouveaux hybrides apportent des&hellip;",
+            "content_html": "<p>Pas de stacking cette fois-ci. <br>J'ai mis la main sur un vieux MP-E 65 et je m'essaye à l'employer à main levée. Pas évident à dompter ce caillou-là. Ce sera un de mes <em>challenges</em> pour les prochaines semaines...<br>Heureusement que les nouveaux hybrides apportent des aides à la MAP manuelle, une grande tolérance aux hauts ISO et une stabilisation du boîtier.<br>Mais quelle plaisir de dépasser le <em>mur du 1:1</em> ! Ici, un rapport d'environ 2:1.</p>\n<p> </p>",
+            "image": "https://pk-67.github.io/gh-pages/media/posts/3/20230924-MP-E65_01-58_forum.jpg",
+            "author": {
+                "name": "D&#x27;Hans Trapp"
+            },
+            "tags": [
+                   "Insectes"
+            ],
+            "date_published": "2023-10-09T16:49:46+02:00",
+            "date_modified": "2023-10-12T16:03:57+02:00"
+        },
+        {
+            "id": "https://pk-67.github.io/gh-pages/la-jalousie-est-un-vilain-defaut/",
+            "url": "https://pk-67.github.io/gh-pages/la-jalousie-est-un-vilain-defaut/",
+            "title": "La jalousie est un vilain défaut...",
+            "summary": "Qui a dit que les moineaux étaient de petits oiseaux paisibles ? Ce mâle-là a au contraire un air fort belliqueux... Jalousie de mâle dominateur ou défense de la pitance par un gros glouton... À vous de choisir ! Canon EF 300mm f/4L IS USM&hellip;",
+            "content_html": "<p>Qui a dit que les moineaux étaient de petits oiseaux paisibles ? Ce mâle-là a au contraire un air fort belliqueux...<br>Jalousie de mâle dominateur ou défense de la pitance par un gros glouton... À vous de choisir !<br><br><strong>Canon EF 300mm f/4L IS USM @300mm • 1/1000 • f/8 • ISO 800</strong></p>\n<p> </p>",
+            "image": "https://pk-67.github.io/gh-pages/media/posts/2/20231005-Moineaux_01-35_1000.jpg",
+            "author": {
+                "name": "D&#x27;Hans Trapp"
+            },
+            "tags": [
+                   "Oiseaux"
+            ],
+            "date_published": "2023-10-09T16:41:43+02:00",
+            "date_modified": "2023-10-12T16:13:14+02:00"
+        }
+    ]
+}
